@@ -1,0 +1,3 @@
+
+•	git config –global user.name “TamannaAhsan”
+•	git config –global user.email syeda.tamanna@northsouth.edu
