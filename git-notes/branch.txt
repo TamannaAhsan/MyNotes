@@ -1,0 +1,17 @@
+1. creating new branch
+ git branch (name)
+
+2.for checking branch lists
+ git branch
+
+3. switching branches 
+ git checkout master or branch
+
+4. new feature added or modified just like following 
+previous commands.
+
+5. if new updates came in develop branch by some other developer
+then we need to merge the updates into feature branch as well.
+ git checkout (branch name)
+ git merge (branch / develop)
+ 
