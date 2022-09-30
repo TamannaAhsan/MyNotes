@@ -1,0 +1,30 @@
+1. initialization in git
+ git init
+
+2. file adding to staging area(colour will be green)
+ git add . (for all untracked files)
+ git add (file name)
+ git status (for checking)
+ git commit -m "file message" (for commenting)  
+ git push -u origin (branch name) 
+ git status 
+
+3.for delete fles, first delete the file then again 
+ git add .,
+ git commit -m "file deleted", 
+ git status,
+ git push -u origin (branch name)
+
+4. for modify a file
+git add .
+git commit -m "modified file"
+git status
+git push -u origin (branch name)
+
+5. removing file from staging area
+git rm --cached file.txt
+git status 
+
+
+
+
